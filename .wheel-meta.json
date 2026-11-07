@@ -1,0 +1,22 @@
+{
+  "wheel_id": 819,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-153",
+  "project": "mortgage-broker-bendigo-suburb-guide-3455f320151be3fdc911f9edcc",
+  "parent_t1_ref": "bendigohomeloanbroker-013",
+  "node_role": "buffer",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo suburb guide",
+  "intended_url": "https://sitesau.github.io/bendigohomeloanbroker-153/",
+  "tier": "T2",
+  "writeback_nonce": "4431709491c1bcb4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-broker-bendigo-013/",
+      "anchor": "mortgage broker bendigo explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
